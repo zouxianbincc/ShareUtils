@@ -21,7 +21,7 @@
      
    }
 # 4.初始化
-   // init
+     // init
      ShareConfig config = ShareConfig.instance()
              .qqId(QQ_ID)
              .wxId(WX_ID)
