@@ -8,7 +8,7 @@
 	   }
 # 2.Add the dependency
     dependencies {
-	        implementation 'com.github.zouxianbincc:ShareUtils:Tag'
+	        implementation 'com.github.zouxianbincc:ShareUtils:1.0.0'
 	}
 # 3.build.gradle 配置 在defaultConfig节点下增加你的qq id信息
      defaultConfig {
