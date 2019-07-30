@@ -32,7 +32,7 @@ dependencies {
     implementation 'com.squareup.okhttp3:okhttp:3.12.3'
     implementation 'io.reactivex.rxjava2:rxjava:2.2.10'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
-    implementation files('libs/libammsdk.jar')
-    implementation files('libs/open_sdk_r5756_lite.jar')
-    implementation files('libs/weiboSDKCore_3.1.4.jar')
+    api files('libs/libammsdk.jar')
+    api files('libs/open_sdk_r5756_lite.jar')
+    api files('libs/weiboSDKCore_3.1.4.jar')
 }
